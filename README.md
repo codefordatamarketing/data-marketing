@@ -1,9 +1,11 @@
-# data-marketing
-How To Run "data-marketing":
+# Data-marketing repository 
+<br>
+## How To Run "data-marketing":
+<br>
 This is a blog. 
-
-I. File list
-These are the files.
-II. Design
-VI. Analysis
+<br>
+### I. File list
+<br>These are the files.
+### II. Design
+### III. Analysis
 
